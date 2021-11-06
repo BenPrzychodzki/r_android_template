@@ -111,4 +111,8 @@ object Service {
             }
         ]
     """
+
+    fun getJson(): String {
+        return estateJsonString;
+    }
 }

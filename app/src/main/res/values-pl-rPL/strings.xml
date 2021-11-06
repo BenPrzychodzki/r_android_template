@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lista Posesji</string>
+    <string name="land">Kraj związkowy %1$s</string>
+    <string name="area">Pole %1$s ha</string>
+    <string name="district">Miasto %1$1s</string>
+    <string name="estate_number">Numer posesji \n%1$s</string>
+    <string name="show_estate_number">Pokaż numer posesji</string>
+</resources>
